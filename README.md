@@ -22,18 +22,15 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
 </p>
 
 **[DevOps & Infrastructure]** <p align="left">
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /></a>
-  <a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
 </p>
 
 **[Databases & Caching]** <p align="left">
@@ -45,20 +42,25 @@
 **[Frontend & UI]** <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 </p>
 
 ---
 
 ### 🗄️ Featured Projects
 
-#### 01. Automated Programming Skills Assessment System
+#### 01. MenuScan - Personalized Menu Assistant
+* **Tech Stack:** `Python`, `FastAPI`, `Docker`, `Kubernetes`, `GCP (Cloud Run)`, `GitHub Actions`, `Google Vision OCR`
+* **Overview:** A smart menu processing application utilizing **Google Vision OCR**. Features robust CI/CD pipelines managed via **GitHub Actions** with integrated security scanning (**Bandit**, **Trivy**), deployed on **Google Cloud Run** and **Kubernetes**.
+
+#### 02. Automated Programming Skills Assessment System
 * **Tech Stack:** `Spring Boot`, `React`, `MySQL`, `Redis`, `Kafka`, `OpenAI API`, `Judge0`
 * **Overview:** Integrated **Judge0** for secure execution and **OpenAI** for intelligent code feedback.
 
-#### 02. WeConnect - Real-time Messaging Platform
+#### 03. WeConnect - Real-time Messaging Platform
 * **Tech Stack:** `Spring Boot`, `WebSockets`, `MySQL`
 * **Overview:** Optimized bi-directional data flow for instant, low-latency communication.
 
-#### 03. Smart Driver Drowsiness Detection
+#### 04. Smart Driver Drowsiness Detection
 * **Tech Stack:** `Python`, `OpenCV`, `PyQt6`
 * **Overview:** Real-time fatigue monitoring system with a responsive **PyQt** desktop interface.
